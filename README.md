@@ -6,7 +6,3 @@
 - 😄 What drives me is a strong mission to make the world better through technology—by improving user experiences and building efficient, AI-powered web solutions.
 - ⚡ Fun fact: ... I once debugged a bug that turned out to be a typo in the database.
 
-<!---
-apondi-art/apondi-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
